@@ -1,2 +1,4 @@
 Rebel scores formula:
-L2*0.1+L3*0.25+L4*1+L5*3
+
+<img src="https://render.githubusercontent.com/render/math?math=L2*0.1%2BL3*0.25%2BL4*1%2BL5*3">
+
